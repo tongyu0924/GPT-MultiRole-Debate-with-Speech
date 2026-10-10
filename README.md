@@ -11,9 +11,7 @@ Image source: <a href="https://oeur-studio.weebly.com/oeurwe.html" target="_blan
 ## 🎥 Demo Video  
 [Click here to watch on YouTube](https://youtu.be/1myc39zXrhA)
 
-<a href="https://youtu.be/1myc39zXrhA" target="_blank">
-  <img src="https://img.youtube.com/vi/1myc39zXrhA/0.jpg" alt="Demo Video Thumbnail" width="480">
-</a>
+
 
 ## Features:
 - **🧑‍🤝‍🧑 Multi-Role Debate Mode**  
